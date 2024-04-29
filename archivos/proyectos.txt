@@ -1,1 +1,12 @@
+Posibles proyectos portfolio:
 
+Análisis exploratorio de datos: Realiza un análisis detallado de un conjunto de datos utilizando visualizaciones y estadísticas descriptivas para obtener información valiosa.
+Predicción de precios de viviendas: Construye un modelo predictivo que estime los precios de las viviendas basándose en características como ubicación, tamaño, número de habitaciones, etc.
+Clasificación de clientes: Desarrolla un modelo de clasificación para predecir si un cliente realizará una compra o no, utilizando datos históricos de transacciones y características del cliente.
+Análisis de sentimientos en redes sociales: Utiliza técnicas de procesamiento de lenguaje natural para analizar el sentimiento de los usuarios en redes sociales sobre un determinado tema o producto.
+Recomendación de películas o productos: Implementa un sistema de recomendación que sugiera películas o productos a los usuarios basándose en sus preferencias pasadas y en las de usuarios similares.
+Detección de fraudes: Desarrolla un modelo de detección de fraudes que identifique transacciones fraudulentas en un conjunto de datos de transacciones financieras.
+Segmentación de clientes: Utiliza técnicas de clustering para segmentar a los clientes en grupos homogéneos según su comportamiento de compra o características demográficas.
+Análisis de series temporales: Realiza un análisis de series temporales para prever la demanda de un producto o el comportamiento de una métrica empresarial a lo largo del tiempo.
+Reconocimiento de objetos en imágenes: Crea un modelo de aprendizaje profundo para reconocer objetos en imágenes, como vehículos, animales, alimentos, etc.
+Análisis de satisfacción del cliente: Analiza encuestas de satisfacción del cliente para identificar áreas de mejora y proponer estrategias para aumentar la satisfacción del cliente.
