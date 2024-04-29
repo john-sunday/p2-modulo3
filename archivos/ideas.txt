@@ -1,1 +1,2 @@
-
+Al finalizar el curso sobre ciencia de datos, crear un portfolio y renovar el REARME.md profile.
+Realizar certificaciones de AWS.
